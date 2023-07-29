@@ -68,7 +68,7 @@ const ProductDetails = () => {
   const { title, price, description, image, rating } = product;
   return (
     <>
-    <section className="pt-32 pb-12 lg:py-32 h-screen flex items-center">
+    <section className="pt-32  lg:py-20 h-screen flex items-center">
       <div className="container mx-auto">
         {/* image & text wrapper */}
         <div className="flex flex-col lg:flex-row items-center mb-8 lg:mx-0">

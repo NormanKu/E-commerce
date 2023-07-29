@@ -27,7 +27,8 @@ const Header = () => {
       {/* Logo */}
       <Link to="/"><div><img src={Logo} alt="" className="w-[40px]" /></div></Link>
       <div className="flex gap-x-3 	">
-    <div className="self-center	">CATEGORY</div>
+    <Link to="/categories/all"><div className="self-center	">CATEGORY</div></Link>
+
 
 
       {/* cart */}
