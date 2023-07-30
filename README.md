@@ -1,11 +1,10 @@
 # About the project
-A car rental/buy website. Prioritizing user experience, we've integrated Google Login for seamless access and implemented robust registration verification for security. Also, multiple language versions are available for inclusivity.
+This is a minimalist e-commerce website built with React and Tailwind. This website features a modern and intuitive design, with easy-to-use navigation and a simple shopping experience that puts the focus on the products.
 
-👉 Live Demo: [CarPro Demo]([https://e-commerce-rosy-two.vercel.app/](https://car-pro-five.vercel.app/))
+👉 Live Demo: [Ecommerce Demo](https://e-commerce-rosy-two.vercel.app/)
 
 Build with:
-
-» Scss
+» Tailwind
 » React JS
 
 Screenshots of the Project 📸
