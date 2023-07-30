@@ -3,8 +3,8 @@ This is a minimalist e-commerce website built with React and Tailwind. This webs
 
 👉 Live Demo: [Ecommerce Demo](https://e-commerce-rosy-two.vercel.app/)
 
-Build with:
-» Tailwind
-» React JS
+Build with:  
+» Tailwind  
+» React JS  
 
 Screenshots of the Project 📸
